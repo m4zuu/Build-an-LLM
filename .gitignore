@@ -1,0 +1,19 @@
+# Notebooks
+.ipynb_checkpoints/
+
+# Modelos y datos
+*.pth
+/data/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secretos y entorno
+.env
+
+# Sistema / editor
+.DS_Store
+.vscode/
