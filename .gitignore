@@ -4,6 +4,9 @@
 # Modelos y datos
 *.pth
 /data/
+/gpt2
+.gpt2/
+gpt2/
 
 # Python
 __pycache__/
